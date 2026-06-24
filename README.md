@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Katherine, currently studying Computer Science at UC Berkeley, and I'm an aspiring engineer.
-- 🔭 I’m currently working on embedded systems, battery/energy storage R&D, and backend dev projects! I love hardware ：）
+- 👋 Hi! I'm Katherine, an aspiring student engineer at UC Berkeley. I love hardware ：）
+- 🔭 I’m currently working on control systems, power electronics, sensor fusion, and RF projects! 
 - 💌 [portfolio](https://katherinesiyuchen-sys-github-io.vercel.app/) | katherinesiyuchen@berkeley.edu
 
